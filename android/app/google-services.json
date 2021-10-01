@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "857748547299",
+    "project_id": "hotel-app-1586356476570",
+    "storage_bucket": "hotel-app-1586356476570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857748547299:android:ae18448806d723199d87d6",
+        "android_client_info": {
+          "package_name": "dreamtech.hotelApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857748547299-d64g28avndr10ps2pdqk8tg4auci1r1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkadqlVccc3cfZ6CtO3ec5NVGWvh5z3no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857748547299-d64g28avndr10ps2pdqk8tg4auci1r1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857748547299-7vbgtcpv3v6g7r4sjiinpoghi3tb20d2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dreamtech.hotelApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
